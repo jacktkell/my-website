@@ -1,4 +1,13 @@
 body {
-    background-color: #3f3f3f;
-    color: white;
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    text-indent: 20px;
+}
+
+#icon {
+    max-width: 100px;
+    max-height: 100px;
 }
